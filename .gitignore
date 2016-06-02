@@ -1,0 +1,8 @@
+eggs/
+develop-eggs/
+bin/
+local/
+parts/
+lib/
+include/
+.installed.cfg
